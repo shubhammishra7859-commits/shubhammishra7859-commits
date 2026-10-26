@@ -183,16 +183,14 @@ A space for small programming experiments and future projects.
 
 ---
 
+
+---
+
 ## Contribution Graph
 
 <div align="center">
 
-<!-- Enable the GitHub Actions workflow before expecting the generated Pac-Man graph to appear. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhammishra7859-commits/shubhammishra7859-commits/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhammishra7859-commits/shubhammishra7859-commits/output/pacman-contribution-graph.svg" />
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/shubhammishra7859-commits/shubhammishra7859-commits/output/pacman-contribution-graph.svg" width="100%" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhammishra7859-commits&bg_color=0D1117&color=70A5FD&line=5865F2&point=BF91F3&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph" />
 
 </div>
 
@@ -202,13 +200,23 @@ A space for small programming experiments and future projects.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/shubhammishra-cs">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="https://leetcode.com/u/shubhammishra1111/">LeetCode</a>
-&nbsp; · &nbsp;
-<a href="mailto:shubhammishra7859@gmail.com">Email</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/shubhammishra7859-commits">GitHub</a>
+<a href="https://linkedin.com/in/shubhammishra-cs">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/shubhammishra1111/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+
+<br/><br/>
+
+<a href="mailto:shubhammishra7859@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/shubhammishra7859-commits">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 <br/><br/>
 
@@ -217,3 +225,4 @@ A space for small programming experiments and future projects.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BF91F3,55:5865F2,100:0D1117&height=120&section=footer" width="100%" alt="" />
 
 </div>
+
