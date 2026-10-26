@@ -19,10 +19,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=shubhammishra7859-commits&style=flat-square&color=5865F2&label=PROFILE+VIEWS" alt="Profile views" />
-
-</div>
-
 ---
 
 ## About Me
