@@ -175,14 +175,11 @@ A space for small programming experiments and future projects.
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhammishra7859-commits&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
 
-<br/>
+<br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=shubhammishra7859-commits&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
-
----
-
 
 ---
 
@@ -201,21 +198,21 @@ A space for small programming experiments and future projects.
 <div align="center">
 
 <a href="https://linkedin.com/in/shubhammishra-cs">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/shubhammishra1111/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 
 <br/><br/>
 
 <a href="mailto:shubhammishra7859@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;
 <a href="https://github.com/shubhammishra7859-commits">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br/><br/>
@@ -225,4 +222,3 @@ A space for small programming experiments and future projects.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BF91F3,55:5865F2,100:0D1117&height=120&section=footer" width="100%" alt="" />
 
 </div>
-
