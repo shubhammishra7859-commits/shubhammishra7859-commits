@@ -185,13 +185,13 @@ A space for small programming experiments and future projects.
 
 ## Contribution Graph
 
-<div align="center">
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhammishra7859-commits/shubhammishra7859-commits/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhammishra7859-commits/shubhammishra7859-commits/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shubhammishra7859-commits/shubhammishra7859-commits/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhammishra7859-commits&bg_color=0D1117&color=70A5FD&line=5865F2&point=BF91F3&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph" />
-
-</div>
-
----
+###
 
 ## Connect With Me
 
